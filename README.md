@@ -1,2 +1,4 @@
 # Ejercicios
-en este repositorio pondremos ejercicios de sistemas dinamicos
+En este repositorio pondremos ejercicios de sistemas dinámicos.
+
+## Subtitulo 
